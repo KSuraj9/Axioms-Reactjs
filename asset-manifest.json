@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Axioms-Reactjs/static/css/main.db798329.css",
+    "main.js": "/Axioms-Reactjs/static/js/main.a032509f.js",
+    "index.html": "/Axioms-Reactjs/index.html",
+    "main.db798329.css.map": "/Axioms-Reactjs/static/css/main.db798329.css.map",
+    "main.a032509f.js.map": "/Axioms-Reactjs/static/js/main.a032509f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db798329.css",
+    "static/js/main.a032509f.js"
+  ]
+}
